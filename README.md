@@ -38,12 +38,12 @@ README.md
 
 ## How to Run the Project Locally
 
-### 1.Clone the repository
+### 1. Clone the repository
 
 git clone https://github.com/your-username/expense-analyzer.git
 cd expense-analyzer
 
-### 2.Run the analyzer
+### 2. Run the analyzer
 
 python3 analyzer.py
 
@@ -62,7 +62,7 @@ Entertainment: $40.00
 Highest expense:
 Rent - $900.00 on 2024-01-02
 
-### 3.What I Learned
+### 3. What I Learned
 
 How to read and parse CSV files in Python
 
@@ -76,7 +76,7 @@ Structuring a Python project for clarity and maintainability
 
 Using Git and GitHub to manage and publish a project
 
-### 4.Future Improvements
+### 4. Future Improvements
 
 Add date-based filtering (monthly or yearly analysis)
 
