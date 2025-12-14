@@ -38,7 +38,7 @@ README.md
 
 ## How to Run the Project Locally
 
-### 1.Clone the repository
+## 1.Clone the repository
 
 git clone https://github.com/your-username/expense-analyzer.git
 cd expense-analyzer
